@@ -1,3 +1,3 @@
 # Foodies Community
 
-Built using Next.js
+Built using modern technologies: Next.js, React.js and Javascript and CSS.
